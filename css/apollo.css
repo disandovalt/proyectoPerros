@@ -1,0 +1,43 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilos para la imagen */
+#contenedorPerror {
+    text-align: center;
+}
+
+#contenedorPerror img {
+    max-width: 150px; /* Tamaño ajustado a 150px */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Estilos para el footer */
+.footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f8f9fa;
+    margin-top: 20px;
+}
+
+/* Estilos para los aside */
+aside {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+aside img {
+    max-width: 100%;
+    height: auto;
+}
